@@ -35,11 +35,6 @@ Além da tecnologia, trago comigo uma bagagem de **liderança e gestão de equip
 
 ---
 
-###  Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusAnsel&show_icons=true&theme=dark)
-
----
-
 ### Contatos:
 
 - **LinkedIn:** (https://www.linkedin.com/in/matheusansel/)
