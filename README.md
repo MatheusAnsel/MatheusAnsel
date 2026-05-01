@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Matheus Ansel 👋💻⚡</h1>
+<h1 align="center">Oi, eu sou o Matheus Ansel </h1>
 
 <h3 align="center">Desenvolvedor Backend | Análise e Desenvolvimento de Sistemas</h3>
 
@@ -28,7 +28,7 @@ Também desenvolvi habilidades de **liderança e gestão de equipes**, atuando n
 
 ---
 
-## 🚀 Tecnologias em Aprendizado
+## 🚀 Tecnologias 
 
 ### 🔙 Back-end
 <p>
