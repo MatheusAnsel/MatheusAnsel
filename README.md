@@ -1,114 +1,155 @@
-<h1 align="center">Oi, eu sou o Matheus Ansel </h1>
+# Hello!, I'm Matheus Ansel :)
 
-<h3 align="center">Desenvolvedor Backend | Análise e Desenvolvimento de Sistemas</h3>
+## Backend Developer | Full Stack Developer | Systems Analysis and Development Graduate
 
-<p align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheusansel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
   <a href="mailto:contato.matheusansel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/matheusansel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MatheusAnsel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+# About Me
 
-Sou desenvolvedor com formação em **Análise e Desenvolvimento de Sistemas** pela UNISUAM. Tenho experiência com desenvolvimento **backend**, construção de **APIs REST**, **banco de dados** e suporte ao desenvolvimento de aplicações. Apaixonado por tecnologia, automação e boas práticas de engenharia de software.
+I'm a Junior Full Stack Developer focused on backend engineering, scalable APIs, and modern web applications.
 
-Também desenvolvi habilidades de **liderança e gestão de equipes**, atuando na coordenação de pessoas, organização de processos e tomada de decisões sob pressão.
+Graduated in Systems Analysis and Development from UNISUAM, I have hands-on experience with backend development, REST APIs, databases, cloud services, and software engineering best practices.
 
-- 📍 Rio de Janeiro, RJ
-- 📧 contato.matheusansel@gmail.com
-- 🎓 Graduado em ADS – UNISUAM (2024)
+Currently focused on backend development, cloud applications, scalable systems, and performance optimization.
 
----
+Also learning Java and Spring Boot to expand my backend expertise.
 
-## 🚀 Tecnologias 
-
-### 🔙 Back-end
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-### 🌿 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
-
-### 🌐 Front-end
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 📊 Dados & Produtividade
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-</p>
+📍 Rio de Janeiro, Brazil
+🎓 Systems Analysis and Development — UNISUAM (2024)
 
 ---
 
-## 🏆 Certificações
+# Tech Stack
 
-- 🖥️ **Desenvolvimento de Software para Internet** (Front-end & Back-end)
-- 📊 **Gerência de Projetos de Software** (Power BI, Excel, PowerPoint, Word)
-- 📱 **Desenvolvimento de Aplicativos Mobile** (Kotlin)
+## Programming Languages
 
----
-
-## 💡 Experiência em Projetos
-
-- 🐍 Desenvolvimento de aplicações com **Python** e **JavaScript**
-- 🔗 Criação e manutenção de **APIs REST** e microsserviços
-- 🗃️ Modelagem e integração com bancos de dados **MySQL**
-- 📊 Desenvolvimento de dashboards com **Power BI**
-- ✅ Testes funcionais e validação de sistemas
-- ⚙️ Automação com **Bash** em ambientes **Linux**
-- ☁️ Utilização de serviços **AWS** em projetos acadêmicos
-- 🔄 Versionamento com **Git** e **GitHub**
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatheusAnsel&color=blue&style=flat-square&label=Profile+Views" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 </p>
 
-<p align="center">⚡ Sempre aprendendo, sempre evoluindo!</p>
+## Web Technologies
 
-- **LinkedIn:** (https://www.linkedin.com/in/matheusansel/)
-- **E-mail:** (contato.matheusansel@gmail.com)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+## Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-222222?style=for-the-badge&logo=microgenetics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+## Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
+</p>
+
+## Database & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+## Cloud, DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+# Software Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hexagonal_Architecture-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DDD-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean_Code-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scalability-777777?style=for-the-badge"/>
+</p>
+
+## Agile & Productivity
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Technical_Documentation-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Requirements_Gathering-444444?style=for-the-badge"/>
+</p>
+
+---
+
+# Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Front--end_Development-20232A?style=for-the-badge&logo=frontendmentor&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Back--end_Development-000000?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software_Project_Management-00599C?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Application_Infrastructure-FF6C37?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+---
+
+# Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Native-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced_Backend-000000?style=for-the-badge"/>
+</p>
+
+---
+
+# Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheusansel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:contato.matheusansel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⚡ Always learning. Always building.
