@@ -16,7 +16,7 @@
 
 # About Me
 
-I'm a Junior Full Stack Developer focused on backend engineering, scalable APIs, and modern web applications.
+I'm a Full Stack Developer focused on backend engineering, scalable APIs, and modern web applications.
 
 Graduated in Systems Analysis and Development from UNISUAM, I have hands-on experience with backend development, REST APIs, databases, cloud services, and software engineering best practices.
 
