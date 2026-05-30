@@ -62,7 +62,12 @@ Currently expanding my backend expertise with Java and Spring Boot.
 
 ### SaaS Enterprise Boilerplate
 
-Production-ready multi-tenant SaaS architecture built with:
+Built with:
+- 30+ reusable modules
+- RBAC
+- Multi-tenancy
+- Dockerized architecture
+- CI/CD pipeline
 
 * Next.js
 * NestJS
