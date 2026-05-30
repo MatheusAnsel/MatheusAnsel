@@ -16,23 +16,43 @@ Systems Analysis and Development — UNISUAM (2024)
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Frontend
-TypeScript • React • Next.js
+## Frontend
 
-### Backend
-Node.js • NestJS • Express
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
+</p>
 
-### Database
-PostgreSQL • MySQL • Prisma
+## Backend
 
-### Cloud & DevOps
-AWS • Docker • Linux • GitHub Actions
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
-### Currently Learning
-Java • Spring Boot
+## Database
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+## Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Actions-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+⚡ Building scalable full-stack applications with TypeScript, React, Next.js, Node.js and cloud-native technologies.
 # Full Stack Developer
 
 Building scalable web applications with modern JavaScript/TypeScript ecosystems.
@@ -61,6 +81,3 @@ Cloud & DevOps:
 - Git
 - GitHub Actions
 
-Currently Learning:
-- Java
-- Spring Boot
