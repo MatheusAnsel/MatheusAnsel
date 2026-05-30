@@ -12,118 +12,55 @@ Currently focused on backend development, cloud applications, scalable systems, 
 
 Also learning Java and Spring Boot to expand my backend expertise.
 
-📍 Rio de Janeiro, Brazil
-🎓 Systems Analysis and Development — UNISUAM (2024)
+Systems Analysis and Development — UNISUAM (2024)
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Programming Languages
+### Frontend
+TypeScript • React • Next.js
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
-</p>
+### Backend
+Node.js • NestJS • Express
 
-## Web Technologies
+### Database
+PostgreSQL • MySQL • Prisma
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+### Cloud & DevOps
+AWS • Docker • Linux • GitHub Actions
 
-## Backend
+### Currently Learning
+Java • Spring Boot
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
+# Full Stack Developer
 
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-222222?style=for-the-badge&logo=microgenetics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
+Building scalable web applications with modern JavaScript/TypeScript ecosystems.
 
-## Frontend
+## Core Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
-</p>
+Frontend:
+- React
+- Next.js
+- TypeScript
 
-## Database & ORM
+Backend:
+- Node.js
+- NestJS
+- Express
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
+Database:
+- PostgreSQL
+- MySQL
+- Prisma
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+Cloud & DevOps:
+- AWS
+- Docker
+- Linux
+- Git
+- GitHub Actions
 
-## Cloud, DevOps & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-# Software Engineering
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hexagonal_Architecture-444444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DDD-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean_Code-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scalability-777777?style=for-the-badge"/>
-</p>
-
-## Agile & Productivity
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Technical_Documentation-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Requirements_Gathering-444444?style=for-the-badge"/>
-</p>
-
----
-
-# Certifications
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Front--end_Development-20232A?style=for-the-badge&logo=frontendmentor&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Back--end_Development-000000?style=for-the-badge&logo=serverless&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software_Project_Management-00599C?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Application_Infrastructure-FF6C37?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
----
-
-# Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Native-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Advanced_Backend-000000?style=for-the-badge"/>
-</p>
-
----
-
-⚡ Always learning. Always building.
+Currently Learning:
+- Java
+- Spring Boot
