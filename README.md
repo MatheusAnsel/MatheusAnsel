@@ -2,19 +2,7 @@ I'm Matheus Ansel
 
 ## Full Stack Developer | Systems Analysis and Development Graduate by AWS
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheusansel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:contato.matheusansel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
-
-# About Me
 
 I'm a Full Stack Developer focused on backend engineering, scalable APIs, and modern web applications.
 
@@ -134,20 +122,6 @@ Also learning Java and Spring Boot to expand my backend expertise.
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud_Native-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Advanced_Backend-000000?style=for-the-badge"/>
-</p>
-
----
-
-# Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheusansel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="contato.matheusansel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
