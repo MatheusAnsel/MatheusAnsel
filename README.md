@@ -1,6 +1,6 @@
-# Hello!, I'm Matheus Ansel :)
+I'm Matheus Ansel 
 
-## Backend Developer | Full Stack Developer | Systems Analysis and Development Graduate
+## Full Stack Developer | Systems Analysis and Development Graduate by AWS
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheusansel/">
