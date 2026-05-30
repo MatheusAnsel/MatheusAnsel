@@ -53,31 +53,27 @@ Systems Analysis and Development — UNISUAM (2024)
 ---
 
 ⚡ Building scalable full-stack applications with TypeScript, React, Next.js, Node.js and cloud-native technologies.
-# Full Stack Developer
+## Featured Projects
 
-Building scalable web applications with modern JavaScript/TypeScript ecosystems.
-
-## Core Stack
-
-Frontend:
-- React
+### SaaS Enterprise Boilerplate
+Multi-tenant SaaS architecture built with:
 - Next.js
-- TypeScript
-
-Backend:
-- Node.js
 - NestJS
-- Express
-
-Database:
 - PostgreSQL
-- MySQL
-- Prisma
-
-Cloud & DevOps:
-- AWS
 - Docker
-- Linux
-- Git
-- GitHub Actions
+- AWS
+
+Features:
+- Authentication & RBAC
+- Subscription Management
+- Multi-tenancy
+- REST API
+- CI/CD
+- Clean Architecture
+
+### Telecall Web Platform
+Corporate communication platform developed with:
+- PHP
+- MySQL
+- JavaScript
 
