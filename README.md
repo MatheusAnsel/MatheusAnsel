@@ -1,6 +1,6 @@
 I'm Matheus Ansel 
 
-## Full Stack Developer | Systems Analysis and Development Graduate by AWS
+## Full Stack Developer | Systems Analysis and Development Graduate
 
 ---
 
