@@ -56,51 +56,6 @@ Currently expanding my backend expertise with Java and Spring Boot.
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
----
 
-## Featured Projects
+# PROJETOS EM DESTAQUES ABAIXO!
 
-### SaaS Enterprise Boilerplate
-
-Built with:
-- 30+ reusable modules
-- RBAC
-- Multi-tenancy
-- Dockerized architecture
-- CI/CD pipeline
-
-* Next.js
-* NestJS
-* PostgreSQL
-* Docker
-* AWS
-
-Features:
-
-* Authentication & RBAC
-* Multi-tenancy
-* Subscription Management
-* REST API
-* CI/CD
-* Clean Architecture
-
-### ConnectCall
-
-Corporate communication platform developed with:
-
-* PHP
-* MySQL
-* JavaScript
-
-### Ecanbuy
-
-Marketplace application developed with:
-
-* Next.js
-* TypeScript
-* Dynamic Routing
-* Responsive UI
-
----
-
-⚡ Building production-ready SaaS applications and scalable backend systems.
