@@ -4,11 +4,7 @@
 
 Systems Analysis and Development graduate from UNISUAM focused on backend engineering, scalable APIs, cloud applications and modern web development.
 
-Currently building a reusable SaaS Enterprise Boilerplate designed for production environments, featuring multi-tenancy, RBAC, authentication, subscriptions, CI/CD and cloud-native architecture.
-
 My main stack includes TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Docker and AWS.
-
-Currently expanding my backend expertise with Java and Spring Boot.
 
 ---
 
