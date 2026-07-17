@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner_github.gif" alt="Matheus Ansel banner" width="100%" />
+</p>
+
 # Hi, I'm Matheus Ansel
 
 ### Full Stack Developer
