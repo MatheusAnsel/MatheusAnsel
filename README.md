@@ -4,8 +4,6 @@
 
 Systems Analysis and Development graduate from UNISUAM focused on backend engineering, scalable APIs, cloud applications and modern web development.
 
-My main stack includes TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Docker and AWS.
-
 ---
 
 # Tech Stack
