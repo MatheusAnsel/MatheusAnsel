@@ -8,44 +8,24 @@ My main stack includes TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, 
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Frontend
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,java,spring,express,postgres,mysql,aws,docker,linux,git,github" />
 </p>
 
-### Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
 
-### Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-### Cloud & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub_Actions-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
 <p align="left">
