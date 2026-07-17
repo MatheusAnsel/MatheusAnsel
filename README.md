@@ -13,7 +13,7 @@ My main stack includes TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,java,spring,express,postgres,mysql,aws,docker,linux,git,github" />
 </p>
 
 ### Backend
