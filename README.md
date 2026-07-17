@@ -18,20 +18,5 @@ My main stack includes TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, 
 
 
 
-
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-
-
 # PROJETOS EM DESTAQUES ABAIXO!
 
