@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assets/banner_github.gif" alt="Banner" width="100%">
+</p>
 
 # Hi, I'm Matheus Ansel
 
