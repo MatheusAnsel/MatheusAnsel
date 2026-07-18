@@ -2,9 +2,8 @@
   <img src="./assets/banner_github.gif" alt="Banner" width="100%">
 </p>
 
-# Hi, I'm Matheus Ansel
 
-### Full Stack Developer
+### Developer
 
 Systems Analysis and Development graduate from UNISUAM focused on backend engineering, scalable APIs, cloud applications and modern web development.
 
@@ -18,11 +17,6 @@ Systems Analysis and Development graduate from UNISUAM focused on backend engine
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,java,spring,express,postgres,mysql,aws,docker,linux,git,github" />
 </p>
 
-<p align="left">
-  <img src="<p align="left">
-  <img src="https://raw.githubusercontent.com/MatheusAnsel/MatheusAnsel/main/assets/banner_github.gif" />
-</p>" />
-</p>
 
 # PROJETOS EM DESTAQUES ABAIXO!
 
