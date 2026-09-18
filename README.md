@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Matheus 👋
+# Matheus Ansel
 
 **Desenvolvedor Full Stack** focado em backend, APIs escaláveis e boas práticas de segurança.
 Graduado em Análise e Desenvolvimento de Sistemas (UNISUAM).
@@ -15,10 +15,10 @@ Graduado em Análise e Desenvolvimento de Sistemas (UNISUAM).
 
 ### Sobre mim
 
-- 🔭 Construo aplicações full-stack de ponta a ponta — do banco de dados à interface — com atenção especial a **autenticação, hardening e boas práticas de deploy**.
-- 🏆 Reconhecido como *Galactic Problem Solver* no **NASA International Space Apps Challenge 2024**.
-- 🌎 Inglês avançado.
-- 📫 Contato: [contato.matheusansel@gmail.com](mailto:contato.matheusansel@gmail.com) · [LinkedIn](https://linkedin.com/in/matheusansel)
+- Construo aplicações full-stack de ponta a ponta — do banco de dados à interface — com atenção especial a **autenticação, hardening e boas práticas de deploy**.
+- Reconhecido como *Galactic Problem Solver* no **NASA International Space Apps Challenge 2024**.
+- Inglês avançado.
+- Contato: [contato.matheusansel@gmail.com](mailto:contato.matheusansel@gmail.com) · [LinkedIn](https://linkedin.com/in/matheusansel)
 
 ### Tech Stack
 
