@@ -36,13 +36,14 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (UNISUAM) · Rio de Janeiro
 | Banco de dados | PostgreSQL, MySQL, modelagem relacional, triggers, migrações |
 | Infraestrutura | Docker, Docker Compose, Git, GitHub, Linux, Vercel, Railway, AWS (fundamentos) |
 | Segurança | bcrypt, rate limiting, Helmet, CORS, prevenção de SQL Injection e IDOR |
+| Testes e CI | Vitest, Supertest, GitHub Actions |
 | Em estudo | NestJS, Swagger/OpenAPI, Redis, RabbitMQ |
 
 ### Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Syre](https://github.com/MatheusAnsel/syre) | Sistema de controle financeiro com 7 módulos, triggers no banco, autenticação JWT, rate limiting e deploy em Vercel e Railway | React, Node.js, Express, PostgreSQL |
+| [Syre](https://github.com/MatheusAnsel/syre) | Sistema de controle financeiro com 7 módulos, triggers no banco, autenticação JWT, rate limiting, mais de 190 testes automatizados, CI no GitHub Actions e deploy em Vercel e Railway | React, Node.js, Express, PostgreSQL |
 | [JotaJogaDBD](https://github.com/MatheusAnsel/streamer-landing-page) | Site institucional entregue a um criador de conteúdo, com conteúdo editável isolado em arquivos de configuração | Next.js, TypeScript, Tailwind CSS, Framer Motion |
 | [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall) | Projeto acadêmico em PHP revisado individualmente, com auditoria e correção completa de segurança | PHP, MySQL |
 | [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) | Marketplace com rotas dinâmicas, carrinho e cupom de desconto | Next.js, TypeScript, Tailwind CSS |
