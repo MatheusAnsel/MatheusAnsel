@@ -10,6 +10,12 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (UNISUAM) · Rio de Janeiro
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://matheusansel-dev.vercel.app)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contato.matheusansel@gmail.com)
 
+<br><br>
+
+<a href="https://matheusansel-dev.vercel.app">
+  <img src="https://image.thum.io/get/width/1200/crop/750/https://matheusansel-dev.vercel.app" alt="Captura de tela do portfólio matheusansel-dev.vercel.app" width="720">
+</a>
+
 </div>
 
 ---
