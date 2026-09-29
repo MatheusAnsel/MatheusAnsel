@@ -7,7 +7,7 @@
 Tecnólogo em Análise e Desenvolvimento de Sistemas (UNISUAM) · Rio de Janeiro, RJ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusansel)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://matheusansel-dev.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACcklEQVR42sWX34dVURTHP%2BfeamYqkYhRPZRL0jAUDTUyd%2FSDJNHQw%2BilKFFR5iHuH5CkHqIoYh6ihzS9JOmH3Kiol%2BglhunHNL9S0XA1XdP99tC6bKc5v%2B4909lsx977u9Z37bXXXmsfAA8oAeNADdA895pxlYyb0n8gDeolz6xpJ5s24ZlLvIwMkGeuaLq1AUuBKvAjqRVp9BsggS4ml22efAHoqxmwdb4MyIes7TLysb9nGor191zU%2BXQDZaAjBHPAvkOmtQA8B3qaiYFNoPugmu2uM8QzXwxTtLn1Nq6BHoK2JDmCDaDboN%2BmRKAR0KoABb2GmXJcvxI07MjXQHdBHWEGrAUNgmYdwU%2BgY6CFITu4atjrcwTmEdB7R98s6Cao4GLbQVdAvxzgGOgEqCU6gDRhMrsDMItAx0Gjjv4q6BpoNYiKszAFOgNqixnB203ue4SXsM2cAo07fD9ByO7wWdCShHf4sikaTCCzGDRgmxWIKuhQA8nHA302JfsakD8Imql7QKDXoD0JFGwzuWlQawK5naCXzjHwyBkI9AK0I4aiS4a%2FFZO4CHrm43pav4ZFI3YXy6CeEPd%2FNFxfBHE36IlP9yvzxD%2BJaC%2FojS%2BBPDZ3u7guW6%2BEBG4X6IGTSQV6C9oflQk9C5B3PkM2OpgLNj8UQF7wEQ%2BD%2Bi1vxK6GedBh0Ic5asGIzfUHyNZrwSjoqGXFhstxC%2BgkaJ2NN5vyGdCyAJk1oNPxb0ey%2B3vODLiX0ksql%2FTtV6%2F9d9J8mcbtnU4xWZGFB%2FrsWwa%2BpbT7RM%2Fy5UArUAGmUzQg0x%2BTHDBJdm0yb17tzciA82T9e%2F4H1cJcB%2BJ6tlMAAAAASUVORK5CYII%3D)](https://matheusansel-dev.vercel.app)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contato.matheusansel@gmail.com)
 
 </div>
