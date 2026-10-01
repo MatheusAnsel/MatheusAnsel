@@ -36,17 +36,17 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (UNISUAM) · Rio de Janeiro
 | Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion |
 | Banco de dados | PostgreSQL, MySQL, modelagem relacional, triggers, migrações |
 | Integrações | WhatsApp Cloud API, Redis (Upstash), armazenamento S3-compatível |
-| Infraestrutura | Docker, Docker Compose, Git, GitHub, Linux, Vercel, Railway, AWS (fundamentos) |
-| Segurança | bcrypt, rate limiting, Helmet, CORS, prevenção de SQL Injection e IDOR |
-| Testes e CI | Vitest, Supertest, GitHub Actions |
+| Infraestrutura | Docker, Docker Compose, Git, GitHub, Linux, Vercel, Render, Supabase, AWS (fundamentos) |
+| Segurança | bcrypt, JWT, rate limiting, Helmet, CORS, RLS, validação HMAC de webhooks, prevenção de SQL Injection e IDOR |
+| Testes e CI | Vitest, Supertest, React Testing Library, GitHub Actions |
 | Em estudo | NestJS, Swagger/OpenAPI, Redis, RabbitMQ |
 
 ### Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Sistema para Oficina Mecânica (Parada 799)](https://github.com/MatheusAnsel/Sistema-para-oficina) | Projeto para oficina real, do levantamento de requisitos ao deploy: site com orçamento automatizado pelo WhatsApp Cloud API (webhook validado por HMAC) e sistema de gestão com ordens de serviço, clientes e veículos, dashboard de faturamento e login com JWT | Next.js 15, React 19, TypeScript, PostgreSQL, Redis |
-| [Syre](https://github.com/MatheusAnsel/syre) | Sistema de controle financeiro com 7 módulos, triggers no banco, autenticação JWT, rate limiting, mais de 190 testes automatizados, CI no GitHub Actions e deploy em Vercel e Railway | React, Node.js, Express, PostgreSQL |
+| [Sistema para Oficina Mecânica (Parada 799)](https://github.com/MatheusAnsel/Sistema-para-oficina) | Projeto para oficina real, do levantamento de requisitos ao deploy: site com orçamento automatizado pelo WhatsApp Cloud API (webhook validado por HMAC) e sistema de gestão com ordens de serviço, clientes e veículos, dashboard de faturamento, listas com paginação, filtro por data e exportação CSV, login com JWT, RLS no banco e página de política de privacidade (LGPD) | Next.js 15, React 19, TypeScript, PostgreSQL (Supabase), Redis |
+| [Syre](https://github.com/MatheusAnsel/syre) | Sistema de controle financeiro com 7 módulos, triggers no banco, autenticação JWT, rate limiting, 248 testes automatizados (backend contra PostgreSQL real e frontend com Testing Library), CI no GitHub Actions e deploy em Vercel, Render e Supabase | React, Node.js, Express, PostgreSQL |
 | [JotaJogaDBD](https://github.com/MatheusAnsel/streamer-landing-page) | Site institucional entregue a um criador de conteúdo, com conteúdo editável isolado em arquivos de configuração | Next.js, TypeScript, Tailwind CSS, Framer Motion |
 | [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall) | Projeto acadêmico em PHP revisado individualmente, com auditoria e correção completa de segurança | PHP, MySQL |
 | [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) | Marketplace com rotas dinâmicas, carrinho e cupom de desconto | Next.js, TypeScript, Tailwind CSS |
