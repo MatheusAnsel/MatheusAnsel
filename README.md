@@ -2,7 +2,7 @@
 
 # Matheus Ansel
 
-**Desenvolvedor Full Stack Júnior | Node.js, TypeScript, React, PostgreSQL**
+**Desenvolvedor Full Stack  | Node.js, TypeScript, React, PostgreSQL**
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas (UNISUAM) · Rio de Janeiro, RJ
 
