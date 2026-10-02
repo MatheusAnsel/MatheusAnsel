@@ -49,7 +49,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (UNISUAM) · Rio de Janeiro
 | [Syre](https://github.com/MatheusAnsel/syre) | Sistema de controle financeiro com 7 módulos, triggers no banco, autenticação JWT, rate limiting, 248 testes automatizados (backend contra PostgreSQL real e frontend com Testing Library), CI no GitHub Actions e deploy em Vercel, Render e Supabase | React, Node.js, Express, PostgreSQL |
 | [JotaJogaDBD](https://github.com/MatheusAnsel/streamer-landing-page) | Site institucional entregue a um criador de conteúdo, com conteúdo editável isolado em arquivos de configuração | Next.js, TypeScript, Tailwind CSS, Framer Motion |
 | [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall) | Projeto acadêmico em PHP revisado individualmente, com auditoria e correção completa de segurança | PHP, MySQL |
-| [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) | Marketplace com rotas dinâmicas, carrinho e cupom de desconto | Next.js, TypeScript, Tailwind CSS |
+| [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) | Front-end headless de uma loja de dropshipping integrado à Shopify Storefront API (catálogo, carrinho, cupons e checkout), com Server Actions validadas, headers de segurança, tema escuro e modo demonstração com catálogo local | Next.js 16, React 19, TypeScript, Tailwind CSS, Shopify Storefront API (GraphQL) |
 | Plataforma de agendamento (Barbearia do Barbio) | Monorepo com front-end Next.js e API REST em camadas, com autenticação JWT e SEO técnico. Código não público | Next.js, Node.js, Express, PostgreSQL, Prisma, Docker |
 
 ### Formação
