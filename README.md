@@ -10,7 +10,9 @@
 
 `Node.js  |  TypeScript  |  React  |  PostgreSQL`
 
-Construindo sistemas confiaveis, com arquitetura limpa e solucoes escalaveis.
+Construindo sistemas confiáveis, com arquitetura limpa e soluções escaláveis.
+
+Disponível para vagas de **Desenvolvedor Back-end, Full Stack ou Analista de Sistemas Júnior**.
 
 </div>
 
@@ -20,11 +22,11 @@ Construindo sistemas confiaveis, com arquitetura limpa e solucoes escalaveis.
 <tr>
 <td width="68%" valign="middle">
 
-Desenvolvedor full stack, do banco de dados a interface, com APIs REST seguras e codigo em camadas.
+Desenvolvedor full stack, do banco de dados à interface, com APIs REST seguras e código em camadas.
 
-Atuo como desenvolvedor desde 2024 e em suporte tecnico de TI desde 2019. Entreguei em producao um sistema para oficina mecanica com atendimento automatizado via WhatsApp.
+Atuo como desenvolvedor desde 2024 e em suporte técnico de TI desde 2019. Entreguei em produção um sistema para oficina mecânica com atendimento automatizado via WhatsApp.
 
-Busco minha primeira posicao formal como **Desenvolvedor Back-end, Full Stack ou Analista de Sistemas Junior**.
+Reconhecido como Galactic Problem Solver no NASA International Space Apps Challenge 2024. Inglês avançado.
 
 </td>
 <td width="32%" align="center" valign="middle">
@@ -50,37 +52,34 @@ Busco minha primeira posicao formal como **Desenvolvedor Back-end, Full Stack ou
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mysql,docker,tailwind,php,linux,git,github&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mysql,docker,tailwind,git,github,linux&theme=dark" alt="Tech stack" />
 
 </div>
 
-| Area | Ferramentas |
+| Área | Ferramentas |
 |---|---|
-| Back-end | Node.js, Express, APIs REST, JWT, Prisma, Zod, Clean Architecture, Repository Pattern |
-| Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion |
-| Banco de dados | PostgreSQL, MySQL, modelagem relacional, triggers, migracoes |
-| Integracoes | WhatsApp Cloud API, Redis (Upstash), armazenamento S3-compativel |
-| Infraestrutura | Docker, Docker Compose, Git, GitHub, Linux, Vercel, Render, Supabase, AWS (fundamentos) |
-| Seguranca | bcrypt, JWT, rate limiting, Helmet, CORS, RLS, validacao HMAC de webhooks |
-| Testes e CI | Vitest, Supertest, React Testing Library, GitHub Actions |
-| Em estudo | NestJS, Swagger/OpenAPI, Redis, RabbitMQ |
+| Back-end | Node.js, Express, APIs REST, JWT, Prisma, Zod, Clean Architecture |
+| Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS |
+| Banco de dados | PostgreSQL, MySQL, modelagem relacional, migrações |
+| Infraestrutura | Docker, Docker Compose, Git, GitHub Actions, Vercel, Render, Supabase |
+| Segurança e testes | bcrypt, rate limiting, Helmet, CORS, RLS, Vitest, Supertest |
 
 ## Projetos em destaque
 
-| Projeto | Descricao | Stack |
+| Projeto | Descrição | Stack |
 |---|---|---|
-| [Sistema para Oficina Mecanica](https://github.com/MatheusAnsel/Sistema-para-oficina) | Site com orcamento automatizado pelo WhatsApp Cloud API e sistema de gestao com ordens de servico, clientes e veiculos | Next.js 15, React 19, TypeScript, PostgreSQL, Redis |
-| [Syre](https://github.com/MatheusAnsel/syre) | Controle financeiro com 7 modulos, JWT, rate limiting, 248 testes automatizados e CI no GitHub Actions | React, Node.js, Express, PostgreSQL |
-| [JotaJogaDBD](https://github.com/MatheusAnsel/streamer-landing-page) | Site institucional para criador de conteudo, com conteudo editavel isolado em arquivos de configuracao | Next.js, TypeScript, Tailwind CSS |
-| [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall) | Projeto academico em PHP com auditoria e correcao completa de seguranca | PHP, MySQL |
-| [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) | Front-end headless de loja integrado a Shopify Storefront API | Next.js 16, React 19, TypeScript, GraphQL |
+| [Sistema para Oficina Mecânica](https://github.com/MatheusAnsel/Sistema-para-oficina) | Site com orçamento automatizado pelo WhatsApp Cloud API e sistema de gestão com ordens de serviço, clientes e veículos | Next.js 15, React 19, TypeScript, PostgreSQL, Redis |
+| [Syre](https://github.com/MatheusAnsel/syre) ([demo](https://syre-six.vercel.app)) | Controle financeiro com 7 módulos, JWT, rate limiting, 248 testes automatizados e CI no GitHub Actions | React, Node.js, Express, PostgreSQL |
+| [JotaJogaDBD](https://github.com/MatheusAnsel/streamer-landing-page) | Site institucional para criador de conteúdo, com conteúdo editável isolado em arquivos de configuração | Next.js, TypeScript, Tailwind CSS |
+| [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall) | Projeto acadêmico em PHP com auditoria e correção de SQL Injection, IDOR, senhas em texto puro e falhas de sessão | PHP, MySQL |
+| [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) | Front-end headless de loja integrado à Shopify Storefront API | Next.js 16, React 19, TypeScript, GraphQL |
 
 ## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=MatheusAnsel&hide_border=true&background=0d1117&ring=DC2626&fire=EF4444&currStreakNum=F87171&sideNums=F87171&currStreakLabel=DC2626&sideLabels=DC2626&dates=8b949e" alt="Streak" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusAnsel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=EF4444&icon_color=DC2626&text_color=e6edf3" alt="Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusAnsel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=EF4444&icon_color=DC2626&text_color=e6edf3" alt="Estatísticas" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAnsel&layout=compact&hide_border=true&bg_color=0d1117&title_color=EF4444&text_color=e6edf3" alt="Linguagens mais usadas" />
 
 </div>
 
@@ -88,11 +87,11 @@ Busco minha primeira posicao formal como **Desenvolvedor Back-end, Full Stack ou
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/DC2626/MatheusAnsel" alt="Grafico de contribuicoes de MatheusAnsel" width="100%" />
+<img src="https://ghchart.rshah.org/DC2626/MatheusAnsel" alt="Gráfico de contribuições de MatheusAnsel" width="100%" />
 
 </div>
 
-## Formacao
+## Formação
 
-- Tecnologia em Analise e Desenvolvimento de Sistemas, UNISUAM (2022 a 2024)
-- Fundamentos de Programacao com C# e .NET, Udemy (2026)
+- Tecnologia em Análise e Desenvolvimento de Sistemas, UNISUAM (2022 a 2024)
+- Fundamentos de Programação com C# e .NET, Udemy (2026)
