@@ -20,17 +20,11 @@ Construindo sistemas confiaveis, com arquitetura limpa e solucoes escalaveis.
 <tr>
 <td width="68%" valign="middle">
 
-Desenvolvo aplicacoes web completas, do banco de dados a interface, com APIs REST autenticadas e codigo organizado em camadas.
+Desenvolvedor full stack, do banco de dados a interface, com APIs REST seguras e codigo em camadas.
 
-Atuo de forma autonoma como desenvolvedor desde 2024 e presto suporte tecnico de TI desde 2019.
+Atuo como desenvolvedor desde 2024 e em suporte tecnico de TI desde 2019. Entreguei em producao um sistema para oficina mecanica com atendimento automatizado via WhatsApp.
 
-Entreguei em producao um sistema para oficina mecanica com atendimento automatizado via WhatsApp e gestao de ordens de servico.
-
-No projeto Telecall corrigi SQL Injection, senhas em texto puro, IDOR e falhas de sessao.
-
-Galactic Problem Solver no NASA International Space Apps Challenge 2024. Ingles avancado.
-
-Meu objetivo: escrever codigo limpo, entregar software confiavel e crescer como engenheiro de software. Busco minha primeira posicao formal como **Desenvolvedor Back-end, Full Stack ou Analista de Sistemas Junior**.
+Busco minha primeira posicao formal como **Desenvolvedor Back-end, Full Stack ou Analista de Sistemas Junior**.
 
 </td>
 <td width="32%" align="center" valign="middle">
