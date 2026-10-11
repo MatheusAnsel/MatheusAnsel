@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=140&text=MATHEUS%20ANSEL&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=50&desc=Full%20Stack%20Developer&descAlignY=72&descSize=16" alt="Matheus Ansel" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=MATHEUS%20ANSEL&fontColor=e6edf3&fontSize=42&fontAlign=50&fontAlignY=50&desc=Full%20Stack%20Developer&descAlignY=72&descSize=16" alt="Matheus Ansel" width="100%" />
 
 </div>
 
