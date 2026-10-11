@@ -68,11 +68,11 @@ Reconhecido como Galactic Problem Solver no NASA International Space Apps Challe
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Sistema para Oficina Mecânica](https://github.com/MatheusAnsel/Sistema-para-oficina) | Site com orçamento automatizado pelo WhatsApp Cloud API e sistema de gestão com ordens de serviço, clientes e veículos | Next.js 15, React 19, TypeScript, PostgreSQL, Redis |
+| [Sistema para Oficina Mecânica](https://github.com/MatheusAnsel/Sistema-para-oficina) ([demo](https://parada799.vercel.app)) | Projeto para cliente real: orçamento automatizado pelo WhatsApp Cloud API e sistema de gestão com ordens de serviço, clientes e veículos | Next.js 15, React 19, TypeScript, PostgreSQL, Redis |
 | [Syre](https://github.com/MatheusAnsel/syre) ([demo](https://syre-six.vercel.app)) | Controle financeiro com 7 módulos, JWT, rate limiting, 248 testes automatizados e CI no GitHub Actions | React, Node.js, Express, PostgreSQL |
-| [JotaJogaDBD](https://github.com/MatheusAnsel/streamer-landing-page) | Site institucional para criador de conteúdo, com conteúdo editável isolado em arquivos de configuração | Next.js, TypeScript, Tailwind CSS |
-| [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall) | Projeto acadêmico em PHP com auditoria e correção de SQL Injection, IDOR, senhas em texto puro e falhas de sessão | PHP, MySQL |
-| [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) | Front-end headless de loja integrado à Shopify Storefront API | Next.js 16, React 19, TypeScript, GraphQL |
+| [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) ([demo](https://ecanbuy.vercel.app)) | Loja de dropshipping headless integrada à Shopify Storefront API, com catálogo, carrinho, cupons e checkout | Next.js 16, React 19, TypeScript, GraphQL |
+| [JotaJogaDBD](https://github.com/MatheusAnsel/streamer-landing-page) ([demo](https://streamer-landing-page-sigma.vercel.app)) | Landing page entregue a um criador de conteúdo real, com conteúdo editável isolado em arquivos de configuração | Next.js, TypeScript, Tailwind CSS |
+| [brasil-econ-dashboard](https://github.com/MatheusAnsel/brasil-econ-dashboard) | Dashboard econômico do Brasil: ETL de dados do BCB e IBGE, API REST e análise de Selic vs. inflação | Node.js, TypeScript, PostgreSQL, Next.js |
 
 ## GitHub Stats
 
