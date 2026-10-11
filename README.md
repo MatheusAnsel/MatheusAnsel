@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=MATHEUS%20ANSEL&fontColor=e6edf3&fontSize=42&fontAlign=50&fontAlignY=50&desc=Full%20Stack%20Developer&descAlignY=72&descSize=16" alt="Matheus Ansel" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=MATHEUS%20ANSEL&fontColor=e6edf3&fontSize=42&fontAlign=50&fontAlignY=50&desc=Full%20Stack%20Developer&descAlignY=74&descSize=16" alt="Matheus Ansel" width="100%" />
 
 </div>
 
@@ -16,7 +16,9 @@ Construindo sistemas confiaveis, com arquitetura limpa e solucoes escalaveis.
 
 ## Sobre mim
 
-<img align="right" width="220" src="https://skillicons.dev/icons?i=ts,nodejs,react,postgres&perline=2" alt="Stack principal" />
+<table>
+<tr>
+<td width="68%" valign="middle">
 
 Desenvolvo aplicacoes web completas, do banco de dados a interface, com APIs REST autenticadas e codigo organizado em camadas.
 
@@ -30,7 +32,14 @@ Galactic Problem Solver no NASA International Space Apps Challenge 2024. Ingles 
 
 Meu objetivo: escrever codigo limpo, entregar software confiavel e crescer como engenheiro de software. Busco minha primeira posicao formal como **Desenvolvedor Back-end, Full Stack ou Analista de Sistemas Junior**.
 
-<br clear="right"/>
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,postgres&perline=2" alt="Stack principal" width="140" />
+
+</td>
+</tr>
+</table>
 
 ## Conecte-se
 
@@ -76,8 +85,8 @@ Meu objetivo: escrever codigo limpo, entregar software confiavel e crescer como 
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=MatheusAnsel&hide_border=true&background=0d1117&ring=DC2626&fire=EF4444&currStreakNum=F87171&sideNums=F87171&currStreakLabel=DC2626&sideLabels=DC2626&dates=8b949e" alt="Streak" />
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusAnsel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=EF4444&icon_color=DC2626&text_color=e6edf3" alt="Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=MatheusAnsel&hide_border=true&background=0d1117&ring=DC2626&fire=EF4444&currStreakNum=F87171&sideNums=F87171&currStreakLabel=DC2626&sideLabels=DC2626&dates=8b949e" alt="Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusAnsel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=EF4444&icon_color=DC2626&text_color=e6edf3" alt="Stats" />
 
 </div>
 
