@@ -4,8 +4,6 @@
 
 </div>
 
-## Ola, eu sou o Matheus Ansel
-
 <div align="center">
 
 **Desenvolvedor Full Stack**
