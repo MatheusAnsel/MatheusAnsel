@@ -52,27 +52,29 @@ Reconhecido como Galactic Problem Solver no NASA International Space Apps Challe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mysql,docker,tailwind,git,github,linux&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mysql,docker,tailwind,git,github,linux&theme=dark" alt="Tech stack" />
 
 </div>
 
 | Área | Ferramentas |
 |---|---|
-| Back-end | Node.js, Express, APIs REST, JWT, Prisma, Zod, Clean Architecture |
+| Back-end | Node.js, Express, NestJS, APIs REST, OpenAPI, JWT, Prisma, Zod, Clean Architecture |
 | Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS |
 | Banco de dados | PostgreSQL, MySQL, modelagem relacional, migrações |
 | Infraestrutura | Docker, Docker Compose, Git, GitHub Actions, Vercel, Render, Supabase |
-| Segurança e testes | bcrypt, rate limiting, Helmet, CORS, RLS, Vitest, Supertest |
+| Segurança e testes | bcrypt, rate limiting, Helmet, CORS, RLS, Vitest, Jest, Supertest |
 
 ## Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [Sistema para Oficina Mecânica](https://github.com/MatheusAnsel/Sistema-para-oficina) ([demo](https://parada799.vercel.app)) | Projeto para cliente real: orçamento automatizado pelo WhatsApp Cloud API e sistema de gestão com ordens de serviço, clientes e veículos | Next.js 15, React 19, TypeScript, PostgreSQL, Redis |
-| [Syre](https://github.com/MatheusAnsel/syre) ([demo](https://syre-six.vercel.app)) | Controle financeiro com 7 módulos, JWT, rate limiting, 248 testes automatizados e CI no GitHub Actions | React, Node.js, Express, PostgreSQL |
+| [Syre](https://github.com/MatheusAnsel/syre) ([demo](https://syre-six.vercel.app)) | Controle financeiro com clientes, fornecedores, estoque, vendas e contas a receber, JWT com refresh token e perfis, API documentada em OpenAPI, mais de 250 testes automatizados e CI no GitHub Actions | React, Node.js, Express, PostgreSQL |
+| [ITSM](https://github.com/MatheusAnsel/ITSM) | Sistema de gestão de chamados e ativos de TI (service desk) em desenvolvimento: API em camadas com refresh token rotativo, chamados com SLA e fechamento automático, ativos, dashboard gerencial e trilha de auditoria | NestJS, Prisma, PostgreSQL, Next.js |
 | [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) ([demo](https://ecanbuy.vercel.app)) | Loja de dropshipping headless integrada à Shopify Storefront API, com catálogo, carrinho, cupons e checkout | Next.js 16, React 19, TypeScript, GraphQL |
 | [JotaJogaDBD](https://github.com/MatheusAnsel/streamer-landing-page) ([demo](https://streamer-landing-page-sigma.vercel.app)) | Landing page entregue a um criador de conteúdo real, com conteúdo editável isolado em arquivos de configuração | Next.js, TypeScript, Tailwind CSS |
-| [brasil-econ-dashboard](https://github.com/MatheusAnsel/brasil-econ-dashboard) | Dashboard econômico do Brasil: ETL de dados do BCB e IBGE, API REST e análise de Selic vs. inflação | Node.js, TypeScript, PostgreSQL, Next.js |
+| [brasil-econ-dashboard](https://github.com/MatheusAnsel/brasil-econ-dashboard) | Dashboard econômico do Brasil: ETL de séries do Banco Central, API REST com cache e OpenAPI, e análise de Selic vs. inflação | Node.js, TypeScript, PostgreSQL, Redis, Next.js |
+| [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall) | Projeto acadêmico em PHP revisitado com uma auditoria de segurança: prepared statements, senhas com bcrypt, credenciais fora do código, correção de IDOR e CI que impede a volta dessas falhas | PHP, MySQL |
 
 ## GitHub Stats
 
