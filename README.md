@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=MATHEUS%20ANSEL&fontColor=e6edf3&fontSize=42&fontAlign=50&fontAlignY=50&desc=Desenvolvedor%20Full%20Stack%20J%C3%BAnior&descAlignY=74&descSize=16" alt="Matheus Ansel" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=MATHEUS%20ANSEL&fontColor=e6edf3&fontSize=42&fontAlign=50&fontAlignY=50&desc=Desenvolvedor%20Backend%20e%20Full%20Stack%20J%C3%BAnior&descAlignY=74&descSize=16" alt="Matheus Ansel" width="100%" />
 
 </div>
 
 <div align="center">
 
-**Desenvolvedor Full Stack Júnior**
+**Desenvolvedor Backend e Full Stack Júnior**
 
 `Node.js  |  TypeScript  |  React  |  PostgreSQL`
 
