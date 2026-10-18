@@ -52,7 +52,7 @@ Reconhecido como Galactic Problem Solver no NASA International Space Apps Challe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mysql,docker,tailwind,git,github,linux&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,redis,mysql,docker,tailwind,git,github&theme=dark" alt="Tech stack" />
 
 </div>
 
@@ -60,9 +60,9 @@ Reconhecido como Galactic Problem Solver no NASA International Space Apps Challe
 |---|---|
 | Back-end | Node.js, Express, NestJS, APIs REST, OpenAPI, JWT, Prisma, Zod, Clean Architecture |
 | Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS |
-| Banco de dados | PostgreSQL, MySQL, modelagem relacional, migrações |
+| Banco de dados | PostgreSQL, Redis, MySQL, modelagem relacional, migrações |
 | Infraestrutura | Docker, Docker Compose, Git, GitHub Actions, Vercel, Render, Supabase |
-| Segurança e testes | bcrypt, rate limiting, Helmet, CORS, RLS, Vitest, Jest, Supertest |
+| Segurança e testes | bcrypt, rate limiting, Helmet, CORS, RLS, Vitest, Jest, Supertest, Playwright |
 
 ## Projetos em destaque
 
@@ -71,27 +71,10 @@ Reconhecido como Galactic Problem Solver no NASA International Space Apps Challe
 | [Sistema para Oficina Mecânica](https://github.com/MatheusAnsel/Sistema-para-oficina) ([demo](https://parada799.vercel.app)) | Projeto para cliente real, em produção: orçamento automatizado pelo WhatsApp Cloud API e sistema de gestão com ordens de serviço, clientes e veículos. Autenticação com JWT, Row Level Security no banco, acesso de demonstração isolado dos dados reais, testes automatizados e CI | Next.js 15, React 19, TypeScript, PostgreSQL, Redis |
 | [Syre](https://github.com/MatheusAnsel/syre) ([demo](https://syre-six.vercel.app)) | Controle financeiro com clientes, fornecedores, estoque, vendas e contas a receber, JWT com refresh token e perfis, API documentada em OpenAPI, mais de 250 testes automatizados e CI no GitHub Actions | React, Node.js, Express, PostgreSQL |
 | [ITSM](https://github.com/MatheusAnsel/ITSM) ([demo](https://itsm-demo-six.vercel.app)) | Sistema de gestão de chamados e ativos de TI (service desk): API em camadas com refresh token rotativo, chamados com SLA e fechamento automático, anexos validados pelo conteúdo, ativos, dashboard gerencial e trilha de auditoria. Testes unitários, de integração contra PostgreSQL real e em navegador (Playwright), Docker e CI | NestJS, Prisma, PostgreSQL, Next.js |
+| [brasil-econ-dashboard](https://github.com/MatheusAnsel/brasil-econ-dashboard) ([demo](https://brasil-econ-dashboard-apps.vercel.app)) | Dashboard econômico do Brasil com dados reais do Banco Central: ETL agendado e idempotente, API REST com cache e OpenAPI, análise de Selic, inflação e juro real. 87 testes contra PostgreSQL e Redis reais, Docker e CI | Node.js, TypeScript, PostgreSQL, Redis, Next.js |
 | [EcanBuy](https://github.com/MatheusAnsel/Ecanbuy) ([demo](https://ecanbuy.vercel.app)) | Loja de dropshipping headless integrada à Shopify Storefront API, com catálogo, carrinho, cupons e checkout | Next.js 16, React 19, TypeScript, GraphQL |
 | [JotaJogaDBD](https://github.com/MatheusAnsel/streamer-landing-page) ([demo](https://streamer-landing-page-sigma.vercel.app)) | Landing page entregue a um criador de conteúdo real, com conteúdo editável isolado em arquivos de configuração | Next.js, TypeScript, Tailwind CSS |
-| [brasil-econ-dashboard](https://github.com/MatheusAnsel/brasil-econ-dashboard) ([demo](https://brasil-econ-dashboard-apps.vercel.app)) | Dashboard econômico do Brasil com dados reais do Banco Central: ETL agendado e idempotente, API REST com cache e OpenAPI, análise de Selic, inflação e juro real. 87 testes contra PostgreSQL e Redis reais, Docker e CI | Node.js, TypeScript, PostgreSQL, Redis, Next.js |
 | [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall) | Projeto acadêmico em PHP revisitado com uma auditoria de segurança: prepared statements, senhas com bcrypt, credenciais fora do código, correção de IDOR e CI que impede a volta dessas falhas | PHP, MySQL |
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusAnsel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=EF4444&icon_color=DC2626&text_color=e6edf3" alt="Estatísticas" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAnsel&layout=compact&hide_border=true&bg_color=0d1117&title_color=EF4444&text_color=e6edf3" alt="Linguagens mais usadas" />
-
-</div>
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/DC2626/MatheusAnsel" alt="Gráfico de contribuições de MatheusAnsel" width="100%" />
-
-</div>
 
 ## Formação
 
