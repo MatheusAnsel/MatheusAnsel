@@ -26,7 +26,7 @@ Desenvolvedor full stack, do banco de dados à interface, com APIs REST seguras 
 
 Atuo como desenvolvedor desde 2024 e em suporte técnico de TI desde 2019, com atendimento a usuários, montagem, conserto e diagnóstico de computadores, notebooks, impressoras e periféricos. Entreguei em produção um sistema para oficina mecânica com atendimento automatizado via WhatsApp.
 
-Reconhecido como Galactic Problem Solver no NASA International Space Apps Challenge 2024. Inglês avançado.
+Reconhecido como Galactic Problem Solver no NASA International Space Apps Challenge 2024. Inglês técnico intermediário.
 
 </td>
 <td width="32%" align="center" valign="middle">
