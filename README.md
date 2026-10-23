@@ -1,13 +1,13 @@
 <h1 align="center">Matheus Ansel</h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend e Full Stack Júnior</b> · Rio de Janeiro<br>
+  <b>Desenvolvedor Backend e Full Stack</b> · Rio de Janeiro<br>
   Node.js · TypeScript · React · PostgreSQL
 </p>
 
 <p align="center">
   Construo sistemas web completos, com APIs seguras, testes automatizados e código em camadas.<br>
-  Disponível para vagas de <b>Desenvolvedor Back-end, Full Stack ou Analista de Sistemas Júnior</b>.
+  Disponível para vagas de <b>Desenvolvedor Back-end, Full Stack ou Analista de Sistemas</b>.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <td width="50%" valign="top">
 <a href="https://syre-six.vercel.app"><img src="assets/projetos/syre.jpg" alt="Dashboard do Syre com vendas dos últimos 6 meses" width="100%"></a>
 <h3>Syre</h3>
-Controle financeiro com clientes, fornecedores, estoque, vendas e contas a receber. <b>Mais de 250 testes automatizados</b>, refresh token rotativo, perfis de acesso e API em OpenAPI.
+Controle financeiro com clientes, fornecedores, estoque, vendas e contas a receber. <b>280 testes automatizados</b>, refresh token rotativo, perfis de acesso e API em OpenAPI.
 <br><br>
 <sub>React · Node.js · Express · PostgreSQL</sub>
 <br><br>
@@ -95,7 +95,7 @@ ITSM, Syre e brasil-econ-dashboard têm as principais decisões de arquitetura r
 
 Desenvolvedor full stack, do banco de dados à interface. Atuo como desenvolvedor desde 2024 e em suporte técnico de TI desde 2019, com atendimento a usuários e diagnóstico e conserto de computadores, notebooks, impressoras e periféricos.
 
-Reconhecido como Galactic Problem Solver no NASA International Space Apps Challenge 2024. Inglês técnico intermediário.
+Inglês técnico intermediário.
 
 ## Stack
 
