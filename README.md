@@ -105,7 +105,7 @@ Inglês técnico intermediário.
 | Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS |
 | Banco de dados | PostgreSQL, Redis, MySQL, modelagem relacional, migrações |
 | Infraestrutura | Docker, Docker Compose, Git, GitHub Actions, Vercel, Render, Supabase |
-| Segurança e testes | bcrypt, rate limiting, Helmet, CORS, RLS, Vitest, Jest, Supertest, Playwright |
+| Segurança e testes | Refresh token rotativo, perfis de acesso, RLS, HMAC, rate limiting, Vitest, Jest, Supertest, Playwright |
 
 ## Formação
 
