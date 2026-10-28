@@ -7,7 +7,7 @@
 
 <p align="center">
   Construo sistemas web completos, com APIs seguras, testes automatizados e código em camadas.<br>
-  Disponível para vagas de <b>Desenvolvedor Back-end, Full Stack ou Analista de Sistemas</b>.
+  Disponível para vagas de <b>Desenvolvedor Back-end ou Full Stack</b>, e também de <b>Analista de Sistemas, Analista de Dados ou Suporte de TI</b>.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <td width="50%" valign="top">
 <a href="https://parada799.vercel.app"><img src="assets/projetos/oficina.jpg" alt="Site da oficina com o botão de orçamento pelo WhatsApp" width="100%"></a>
 <h3>Sistema para Oficina Mecânica</h3>
-<b>Cliente real, em produção.</b> Vendido por contrato e já com mais de 20 veículos cadastrados: gestão de ordens de serviço, clientes e veículos, com Row Level Security, testes e CI. Orçamento pelo WhatsApp Cloud API pronto para ativação.
+<b>Cliente real, em produção.</b> A oficina não aparecia nas pesquisas e não tinha controle de quem era cada carro nem do problema dele. Fiz sozinho, do levantamento ao deploy: site com domínio próprio e SEO local, e gestão de ordens de serviço, clientes e veículos, com Row Level Security, testes e CI. Vendido por contrato e já com mais de 20 veículos cadastrados. Orçamento pelo WhatsApp Cloud API pronto para ativação.
 <br><br>
 <sub>Next.js 15 · React 19 · TypeScript · PostgreSQL · Redis</sub>
 <br><br>
@@ -93,7 +93,9 @@ ITSM, Syre e brasil-econ-dashboard têm as principais decisões de arquitetura r
 
 ## Sobre mim
 
-Desenvolvedor full stack, do banco de dados à interface. Atuo como desenvolvedor desde 2024 e em suporte técnico de TI desde 2019, com atendimento a usuários e diagnóstico e conserto de computadores, notebooks, impressoras e periféricos.
+Desenvolvedor full stack, do banco de dados à interface. Atuo como desenvolvedor desde 2024 e em suporte técnico de TI desde 2019, atendendo pessoas presencialmente e por acesso remoto em formatação, montagem, troca de peças, remoção de vírus e lentidão de computadores e notebooks.
+
+Também trabalho com dados: SQL, Excel avançado com tabelas dinâmicas e Power Query, e Power BI, aplicados no brasil-econ-dashboard.
 
 Como voluntário, coordenei por quase dois anos a equipe de moderação de uma comunidade online com cerca de 230 membros ativos por dia; a equipe cresceu de 8 para até 56 pessoas.
 
@@ -106,6 +108,7 @@ Inglês técnico intermediário.
 | Back-end | Node.js, Express, NestJS, APIs REST, OpenAPI, JWT, Prisma, Zod, Clean Architecture |
 | Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS |
 | Banco de dados | PostgreSQL, Redis, MySQL, modelagem relacional, migrações |
+| Dados | SQL, Excel avançado (tabelas dinâmicas, Power Query), Power BI |
 | Infraestrutura | Docker, Docker Compose, Git, GitHub Actions, Vercel, Render, Supabase |
 | Segurança e testes | Refresh token rotativo, perfis de acesso, RLS, HMAC, rate limiting, Vitest, Jest, Supertest, Playwright |
 
