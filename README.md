@@ -23,7 +23,7 @@
 <td width="50%" valign="top">
 <a href="https://parada799.vercel.app"><img src="assets/projetos/oficina.jpg" alt="Site da oficina com o botão de orçamento pelo WhatsApp" width="100%"></a>
 <h3>Sistema para Oficina Mecânica</h3>
-<b>Cliente real, em produção.</b> Vendido por contrato de R$ 2.000 e já com mais de 20 veículos cadastrados: gestão de ordens de serviço, clientes e veículos, com Row Level Security, testes e CI. Orçamento pelo WhatsApp Cloud API pronto para ativação.
+<b>Cliente real, em produção.</b> Vendido por contrato e já com mais de 20 veículos cadastrados: gestão de ordens de serviço, clientes e veículos, com Row Level Security, testes e CI. Orçamento pelo WhatsApp Cloud API pronto para ativação.
 <br><br>
 <sub>Next.js 15 · React 19 · TypeScript · PostgreSQL · Redis</sub>
 <br><br>
