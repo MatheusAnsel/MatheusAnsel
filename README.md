@@ -23,7 +23,7 @@
 <td width="50%" valign="top">
 <a href="https://parada799.vercel.app"><img src="assets/projetos/oficina.jpg" alt="Site da oficina com o botão de orçamento pelo WhatsApp" width="100%"></a>
 <h3>Sistema para Oficina Mecânica</h3>
-<b>Cliente real, em produção.</b> Orçamento automatizado pelo WhatsApp Cloud API e gestão de ordens de serviço, clientes e veículos, com Row Level Security, testes e CI.
+<b>Cliente real, em produção.</b> Vendido por contrato de R$ 2.000 e já com mais de 20 veículos cadastrados: gestão de ordens de serviço, clientes e veículos, com Row Level Security, testes e CI. Orçamento pelo WhatsApp Cloud API pronto para ativação.
 <br><br>
 <sub>Next.js 15 · React 19 · TypeScript · PostgreSQL · Redis</sub>
 <br><br>
@@ -94,6 +94,8 @@ ITSM, Syre e brasil-econ-dashboard têm as principais decisões de arquitetura r
 ## Sobre mim
 
 Desenvolvedor full stack, do banco de dados à interface. Atuo como desenvolvedor desde 2024 e em suporte técnico de TI desde 2019, com atendimento a usuários e diagnóstico e conserto de computadores, notebooks, impressoras e periféricos.
+
+Como voluntário, coordenei por quase dois anos a equipe de moderação de uma comunidade online com cerca de 230 membros ativos por dia; a equipe cresceu de 8 para até 56 pessoas.
 
 Inglês técnico intermediário.
 
