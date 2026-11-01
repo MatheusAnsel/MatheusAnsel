@@ -65,16 +65,6 @@ Dados reais do Banco Central: ETL agendado e idempotente, API com cache em Redis
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://ecanbuy.vercel.app"><img src="assets/projetos/ecanbuy.jpg" alt="Página inicial da loja Ecanbuy" width="100%"></a>
-<h3>Ecanbuy</h3>
-Loja de dropshipping headless integrada à Shopify Storefront API, com catálogo, carrinho, cupons e checkout.
-<br><br>
-<sub>Next.js 16 · React 19 · TypeScript · GraphQL</sub>
-<br><br>
-<a href="https://ecanbuy.vercel.app"><img src="https://img.shields.io/badge/Demo-2ea44f?style=flat-square" alt="Demo"></a>
-<a href="https://github.com/MatheusAnsel/Ecanbuy"><img src="https://img.shields.io/badge/C%C3%B3digo-24292f?style=flat-square&logo=github" alt="Código"></a>
-</td>
-<td width="50%" valign="top">
 <a href="https://streamer-landing-page-sigma.vercel.app"><img src="assets/projetos/jotajogadbd.jpg" alt="Página inicial do site do JotaJogaDBD" width="100%"></a>
 <h3>JotaJogaDBD</h3>
 <b>Entregue a um criador de conteúdo real</b>, em colaboração com Marina Barbs. Landing page com o conteúdo editável isolado em arquivos de configuração.
