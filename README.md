@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  Construo sistemas web completos, com APIs seguras, testes automatizados e código em camadas.<br>
-  Disponível para vagas de <b>Desenvolvedor Back-end ou Full Stack</b>, e também de <b>Analista de Sistemas, Analista de Dados ou Suporte de TI</b>.
+  Do banco de dados à interface e ao deploy: APIs REST com autenticação e controle de acesso, testes automatizados e CI/CD.<br>
+  Aberto a vagas de <b>Desenvolvedor Back-end, Full Stack ou Analista de Sistemas</b>, remoto ou no Rio de Janeiro.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <td width="50%" valign="top">
 <a href="https://parada799.vercel.app"><img src="assets/projetos/oficina.jpg" alt="Site da oficina com o botão de orçamento pelo WhatsApp" width="100%"></a>
 <h3>Sistema para Oficina Mecânica</h3>
-<b>Cliente real, em produção.</b> A oficina não aparecia nas pesquisas e não tinha controle de quem era cada carro nem do problema dele. Fiz sozinho, do levantamento ao deploy: site com domínio próprio e SEO local, e gestão de ordens de serviço, clientes e veículos, com Row Level Security, testes e CI. Vendido por contrato e já com mais de 20 veículos cadastrados. Orçamento pelo WhatsApp Cloud API pronto para ativação.
+<b>Cliente real, em produção.</b> A oficina, em Irajá (RJ), não aparecia nas pesquisas e não tinha registro centralizado dos veículos. Fiz sozinho, do levantamento com o dono ao deploy: site com domínio próprio, páginas por serviço e SEO local verificado no Google Search Console, e gestão de ordens de serviço, clientes e veículos com Row Level Security, testes e CI. Infraestrutura no nome do cliente, com deploy sem acesso à conta dele. Vendido por contrato e já com mais de 20 veículos cadastrados. Orçamento pelo WhatsApp Cloud API pronto para ativação.
 <br><br>
 <sub>Next.js 15 · React 19 · TypeScript · PostgreSQL · Redis</sub>
 <br><br>
@@ -63,20 +63,17 @@ Dados reais do Banco Central: ETL agendado e idempotente, API com cache em Redis
 <a href="https://github.com/MatheusAnsel/brasil-econ-dashboard"><img src="https://img.shields.io/badge/C%C3%B3digo-24292f?style=flat-square&logo=github" alt="Código"></a>
 </td>
 </tr>
-<tr>
-
-
-</td>
-</tr>
 </table>
 
-ITSM, Syre e brasil-econ-dashboard têm as principais decisões de arquitetura registradas em ADRs, na pasta `docs/adr` de cada repositório.
+CI no GitHub Actions (tipos, lint, testes e build) em 4 projetos. ITSM, Syre e brasil-econ-dashboard têm as principais decisões de arquitetura registradas em ADRs, na pasta `docs/adr` de cada repositório.
 
 **Também no GitHub:** [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall), projeto acadêmico em PHP e MySQL revisitado com uma auditoria de segurança: prepared statements, senhas com bcrypt, correção de IDOR e CI que impede a volta dessas falhas.
 
 ## Sobre mim
 
-Desenvolvedor full stack, do banco de dados à interface. Atuo como desenvolvedor desde 2024 e em suporte técnico de TI desde 2019, atendendo pessoas presencialmente e por acesso remoto em formatação, montagem, troca de peças, remoção de vírus e lentidão de computadores e notebooks.
+Desenvolvedor Backend e Full Stack, do banco de dados à interface e ao deploy. Desde 2024 desenvolvo, como autônomo, sistemas para clientes reais e projetos próprios.
+
+Atuo em suporte técnico de TI desde 2019, o que me ensinou a partir do problema real do usuário: atendimento presencial e por acesso remoto (TeamViewer), instalação e formatação de Windows e Linux, Microsoft 365, montagem, troca de peças, remoção de vírus e correção de lentidão.
 
 Também trabalho com dados: SQL, Excel avançado com tabelas dinâmicas e Power Query, e Power BI, aplicados no brasil-econ-dashboard.
 
@@ -88,7 +85,7 @@ Inglês técnico intermediário.
 
 | Área | Ferramentas |
 |---|---|
-| Back-end | Node.js, Express, NestJS, APIs REST, OpenAPI, JWT, Prisma, Zod, Clean Architecture |
+| Back-end | Node.js, Express, NestJS, Fastify, APIs REST, OpenAPI, JWT, Prisma, Zod, Clean Architecture |
 | Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS |
 | Banco de dados | PostgreSQL, Redis, MySQL, modelagem relacional, migrações |
 | Dados | SQL, Excel avançado (tabelas dinâmicas, Power Query), Power BI |
@@ -98,4 +95,15 @@ Inglês técnico intermediário.
 ## Formação
 
 - Tecnologia em Análise e Desenvolvimento de Sistemas, UNISUAM (2022 a 2024)
+
+## Certificações
+
+- AWS Cloud Practitioner Essentials, Amazon Web Services (2026)
+- Conceitos Básicos de Redes, Cisco Networking Academy (2026)
+- Certificação do Google Analytics, Google (2026)
+- AI Foundations e Applied AI Foundations, OpenAI (2026)
+- AI Fluency: Framework and Foundations, Claude 101 e Introduction to Claude Cowork, Anthropic (2026)
+- Introdução à Plataforma Java, DIO (2026)
 - Fundamentos de Programação com C# e .NET, Udemy (2026)
+
+Códigos e links de verificação na seção [Licenças e certificados do LinkedIn](https://www.linkedin.com/in/matheusansel/details/certifications/).
