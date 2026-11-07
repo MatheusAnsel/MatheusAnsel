@@ -64,15 +64,8 @@ Dados reais do Banco Central: ETL agendado e idempotente, API com cache em Redis
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://streamer-landing-page-sigma.vercel.app"><img src="assets/projetos/jotajogadbd.jpg" alt="Página inicial do site do JotaJogaDBD" width="100%"></a>
-<h3>JotaJogaDBD</h3>
-<b>Entregue a um criador de conteúdo real</b>, em colaboração com Marina Barbs. Landing page com o conteúdo editável isolado em arquivos de configuração.
-<br><br>
-<sub>Next.js · TypeScript · Tailwind CSS</sub>
-<br><br>
-<a href="https://streamer-landing-page-sigma.vercel.app"><img src="https://img.shields.io/badge/Demo-2ea44f?style=flat-square" alt="Demo"></a>
-<a href="https://github.com/MatheusAnsel/streamer-landing-page"><img src="https://img.shields.io/badge/C%C3%B3digo-24292f?style=flat-square&logo=github" alt="Código"></a>
+
+
 </td>
 </tr>
 </table>
