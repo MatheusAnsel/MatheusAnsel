@@ -75,7 +75,7 @@ Desenvolvedor Backend e Full Stack, do banco de dados à interface e ao deploy. 
 
 Atuo em suporte técnico de TI desde 2019, o que me ensinou a partir do problema real do usuário: atendimento presencial e por acesso remoto (TeamViewer), instalação e formatação de Windows e Linux, Microsoft 365, montagem, troca de peças, remoção de vírus e correção de lentidão.
 
-Também trabalho com dados: SQL, Excel avançado com tabelas dinâmicas e Power Query, e Power BI, aplicados no brasil-econ-dashboard.
+Também trabalho com dados: SQL, Python com pandas, Excel avançado com tabelas dinâmicas e Power Query, e Power BI, aplicados no brasil-econ-dashboard. Certificado pela Cisco em análise de dados e Data Science com Python.
 
 Como voluntário, coordenei por quase dois anos a equipe de moderação de uma comunidade online com cerca de 230 membros ativos por dia; a equipe cresceu de 8 para até 56 pessoas.
 
@@ -88,7 +88,7 @@ Inglês técnico intermediário.
 | Back-end | Node.js, Express, NestJS, Fastify, APIs REST, OpenAPI, JWT, Prisma, Zod, Clean Architecture |
 | Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS |
 | Banco de dados | PostgreSQL, Redis, MySQL, modelagem relacional, migrações |
-| Dados | SQL, Excel avançado (tabelas dinâmicas, Power Query), Power BI |
+| Dados | SQL, Python (pandas), Excel avançado (tabelas dinâmicas, Power Query), Power BI |
 | Infraestrutura | Docker, Docker Compose, Git, GitHub Actions, Vercel, Render, Supabase |
 | Segurança e testes | Refresh token rotativo, perfis de acesso, RLS, HMAC, rate limiting, Vitest, Jest, Supertest, Playwright |
 
@@ -96,9 +96,11 @@ Inglês técnico intermediário.
 
 - Tecnologia em Análise e Desenvolvimento de Sistemas, UNISUAM (2022 a 2024)
 
-## Certificações
+## Certificações e cursos
 
-- AWS Cloud Practitioner Essentials, Amazon Web Services (2026)
+- Fundamentos da Análise de Dados, Cisco Networking Academy (2026)
+- Data Science Essentials with Python, Cisco Networking Academy (2026)
+- AWS Cloud Practitioner Essentials, Amazon Web Services (2026, curso com certificado de conclusão)
 - Conceitos Básicos de Redes, Cisco Networking Academy (2026)
 - Certificação do Google Analytics, Google (2026)
 - AI Foundations e Applied AI Foundations, OpenAI (2026)
