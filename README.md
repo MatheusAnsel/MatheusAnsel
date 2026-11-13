@@ -16,6 +16,10 @@
   <a href="mailto:contato.matheusansel@gmail.com"><img src="https://img.shields.io/badge/E--mail-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
+<p align="center">
+  <a href="https://matheusansel.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gerado/terminal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/gerado/terminal-light.svg"><img src="assets/gerado/terminal-dark.svg" alt="Terminal que consulta matheusansel.pages.dev/me.json e mostra cargo, stack, o sistema em produção e o status de cada projeto" width="100%"></picture></a>
+</p>
+
 ## Projetos em destaque
 
 <table>
@@ -55,7 +59,7 @@ Service desk com chamados, SLA e fechamento automático, ativos de TI e trilha d
 <td width="50%" valign="top">
 <a href="https://brasil-econ-dashboard-apps.vercel.app"><img src="assets/projetos/brasil-econ.jpg" alt="Dashboard com Selic, IPCA e juro real" width="100%"></a>
 <h3>brasil-econ-dashboard</h3>
-Dados reais do Banco Central: ETL agendado e idempotente, API com cache em Redis e OpenAPI, análise de Selic, inflação e juro real. <b>87 testes contra PostgreSQL e Redis reais.</b>
+Dados reais do Banco Central: ETL agendado e idempotente, API com cache em Redis e OpenAPI, análise de Selic, inflação e juro real. <b>96 testes contra PostgreSQL e Redis reais.</b>
 <br><br>
 <sub>Node.js · TypeScript · PostgreSQL · Redis · Next.js</sub>
 <br><br>
@@ -66,6 +70,21 @@ Dados reais do Banco Central: ETL agendado e idempotente, API com cache em Redis
 </table>
 
 CI no GitHub Actions (tipos, lint, testes e build) em 4 projetos. ITSM, Syre e brasil-econ-dashboard têm as principais decisões de arquitetura registradas em ADRs, na pasta `docs/adr` de cada repositório.
+
+## Agora
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/MatheusAnsel?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gerado/atividade-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/gerado/atividade-light.svg"><img src="assets/gerado/atividade-dark.svg" alt="Último commit de cada projeto" width="100%"></picture></a></td>
+<td width="50%" valign="top"><a href="https://matheusansel.pages.dev/#quality"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gerado/testes-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/gerado/testes-light.svg"><img src="assets/gerado/testes-dark.svg" alt="Testes automatizados somados e status do CI de cada projeto" width="100%"></picture></a></td>
+</tr>
+</table>
+
+**Selic contra inflação, direto da API do brasil-econ-dashboard.** O gráfico é refeito todo dia por uma GitHub Action que consulta a [API pública do projeto](https://brasil-econ-api.onrender.com/docs).
+
+<a href="https://brasil-econ-dashboard-apps.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gerado/selic-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/gerado/selic-light.svg"><img src="assets/gerado/selic-dark.svg" alt="Selic meta, IPCA de 12 meses e juro real nos últimos três anos" width="100%"></picture></a>
+
+<sub>As imagens desta página são geradas por <code>scripts/gerar.mjs</code> a partir do <a href="https://matheusansel.pages.dev/me.json">resumo publicado pelo portfólio</a>, da API do brasil-econ-dashboard e da API do GitHub.</sub>
 
 **Também no GitHub:** [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall), projeto acadêmico em PHP e MySQL revisitado com uma auditoria de segurança: prepared statements, senhas com bcrypt, correção de IDOR e CI que impede a volta dessas falhas.
 
