@@ -231,7 +231,7 @@ text{font-family:JBM,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:$
 .ln{stroke-dasharray:${len};stroke-dashoffset:${len};animation:d 2.4s ease-out .3s forwards}
 .ar{opacity:0;animation:f 1s ease-out 2.2s forwards}
 @keyframes d{to{stroke-dashoffset:0}}
-@keyframes f{to{opacity:1}}
+@keyframes f{to{opacity:.08}}
 </style>
 <rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="10" fill="${t.bg}" stroke="${t.border}"/>
 ${stat(24, 'SELIC (META)', pct(last.selic))}
@@ -239,7 +239,7 @@ ${stat(214, 'IPCA 12 MESES', pct(last.ipca12m))}
 ${stat(404, 'JURO REAL', pct(last.realRate))}
 <text x="${W - 24}" y="44" text-anchor="end" class="lb">ÚLTIMO MÊS</text><text x="${W - 24}" y="72" text-anchor="end" class="big" style="font-size:16px">${mes(last.date)}</text>
 ${grid.join('\n')}
-<path d="${area}" fill="${t.text}" opacity=".07" class="ar"/>
+<path d="${area}" fill="${t.text}" class="ar"/>
 <path d="${path('ipca12m')}" fill="none" stroke="${t.muted}" stroke-width="2" class="ln"/>
 <path d="${path('selic')}" fill="none" stroke="${t.strong}" stroke-width="2.5" class="ln"/>
 ${ticks}
