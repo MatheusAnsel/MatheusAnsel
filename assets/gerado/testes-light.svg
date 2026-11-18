@@ -28,7 +28,7 @@ text{font-family:JBM,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-s
 <circle cx="30" cy="204" r="4" fill="#1f2328"/>
 <text x="44" y="208">ITSM</text>
 <text x="270" y="208" text-anchor="end" class="n">~306</text>
-<text x="396" y="208" text-anchor="end" class="m">CI ok · 13/11</text></g>
+<text x="396" y="208" text-anchor="end" class="m">CI ok · 18/11</text></g>
 <g class="r" style="animation-delay:0.96s">
 <circle cx="30" cy="238" r="4" fill="#1f2328"/>
 <text x="44" y="242">brasil-econ-dashboard</text>
