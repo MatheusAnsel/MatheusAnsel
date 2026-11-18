@@ -2,7 +2,7 @@
 // (.github/workflows/perfil.yml) e tambem pode rodar na mao: `node scripts/gerar.mjs`.
 //
 // Fontes, todas publicas:
-//   - https://matheusansel.pages.dev/me.json  -> resumo do portfolio (cargo, stack, projetos, testes)
+//   - https://matheusansel.com/me.json  -> resumo do portfolio (cargo, stack, projetos, testes)
 //   - https://brasil-econ-api.onrender.com     -> Selic, IPCA e juro real (API do brasil-econ-dashboard)
 //   - API do GitHub                            -> ultimo commit e status do CI de cada projeto
 //
@@ -14,7 +14,7 @@ import { fileURLToPath } from 'node:url';
 const root = fileURLToPath(new URL('../', import.meta.url));
 const out = (name) => `${root}assets/gerado/${name}`;
 
-const PORTFOLIO_JSON = 'https://matheusansel.pages.dev/me.json';
+const PORTFOLIO_JSON = 'https://matheusansel.com/me.json';
 const ECON_API = 'https://brasil-econ-api.onrender.com';
 const GH = 'https://api.github.com';
 
@@ -85,7 +85,7 @@ export function terminalLines(me) {
   const out = (...parts) => L.push({ kind: 'out', parts });
   const str = (s) => [`"${s}"`, 's'];
 
-  cmd(`curl -s matheusansel.pages.dev/me.json | jq '{nome, cargo, local, stack, emProducao}'`);
+  cmd(`curl -s matheusansel.com/me.json | jq '{nome, cargo, local, stack, emProducao}'`);
   out(['{', 'p']);
   const campos = [
     ['nome', me.nome],
@@ -98,7 +98,7 @@ export function terminalLines(me) {
   out(['  ],', 'p']);
   out(['  ', ''], ['"emProducao"', 'k'], [': ', 'p'], str(me.emProducao ?? ''));
   out(['}', 'p']);
-  cmd(`curl -s matheusansel.pages.dev/me.json | jq -r '.projetos[] | "\\(.status)\\t\\(.nome)"'`);
+  cmd(`curl -s matheusansel.com/me.json | jq -r '.projetos[] | "\\(.status)\\t\\(.nome)"'`);
   // "Em desenvolvimento · código não público" -> "Em desenvolvimento": a coluna fica curta.
   const st = (p) => p.status.split(' · ')[0];
   const w = Math.max(...me.projetos.map((p) => st(p).length)) + 3;
