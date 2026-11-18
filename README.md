@@ -1,13 +1,13 @@
 <h1 align="center">Matheus Ansel</h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend e Full Stack</b> · Rio de Janeiro<br>
+  <b>Analista de Sistemas e Desenvolvedor Full Stack</b>, com especialidade em Back-end · Rio de Janeiro<br>
   Node.js · TypeScript · React · PostgreSQL
 </p>
 
 <p align="center">
-  Do banco de dados à interface e ao deploy: APIs REST com autenticação e controle de acesso, testes automatizados e CI/CD.<br>
-  Aberto a vagas de <b>Desenvolvedor Back-end, Full Stack ou Analista de Sistemas</b>, remoto ou no Rio de Janeiro.
+  Do levantamento com o cliente à implantação e à sustentação: APIs REST com autenticação e controle de acesso, banco de dados, testes automatizados e CI/CD.<br>
+  Aberto a vagas de <b>Analista de Sistemas, Desenvolvedor Full Stack ou Back-end</b>, remoto ou no Rio de Janeiro.
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 <td width="50%" valign="top">
 <a href="https://syre-six.vercel.app"><img src="assets/projetos/syre.jpg" alt="Dashboard do Syre com vendas dos últimos 6 meses" width="100%"></a>
 <h3>Syre</h3>
-Controle financeiro com clientes, fornecedores, estoque, vendas e contas a receber. <b>280 testes automatizados</b>, refresh token rotativo, perfis de acesso e API em OpenAPI.
+Controle financeiro com clientes, fornecedores, estoque, vendas e contas a receber. <b>290 testes automatizados</b>, refresh token rotativo, perfis de acesso e API em OpenAPI.
 <br><br>
 <sub>React · Node.js · Express · PostgreSQL</sub>
 <br><br>
@@ -71,6 +71,8 @@ Dados reais do Banco Central: ETL agendado e idempotente, API com cache em Redis
 
 CI no GitHub Actions (tipos, lint, testes e build) em 4 projetos. ITSM, Syre e brasil-econ-dashboard têm as principais decisões de arquitetura registradas em ADRs, na pasta `docs/adr` de cada repositório.
 
+**Também no GitHub:** [agendamento-api](https://github.com/MatheusAnsel/agendamento-api), API de agendamento multi-tenant em FastAPI e PostgreSQL com testes em pytest e Docker, e [suporte-ti-lab](https://github.com/MatheusAnsel/suporte-ti-lab), laboratório de suporte com Active Directory, GPO, rotinas em PowerShell e GLPI com SLA seguindo o ITIL 4.
+
 ## Agora
 
 <table>
@@ -88,13 +90,11 @@ CI no GitHub Actions (tipos, lint, testes e build) em 4 projetos. ITSM, Syre e b
 
 ## Sobre mim
 
-Desenvolvedor Backend e Full Stack, do banco de dados à interface e ao deploy. Desde 2024 desenvolvo, como autônomo, sistemas para clientes reais e projetos próprios.
+Analista de Sistemas e Desenvolvedor Full Stack, com especialidade em Back-end. Desde 2024, como autônomo, levanto requisitos com o cliente, desenvolvo, implanto e dou sustentação a sistemas para clientes reais e projetos próprios.
 
-Atuo em suporte técnico de TI desde 2019, o que me ensinou a partir do problema real do usuário: atendimento presencial e por acesso remoto (TeamViewer), instalação e formatação de Windows e Linux, Microsoft 365, montagem, troca de peças, remoção de vírus e correção de lentidão.
+Atuo em suporte técnico de TI sob demanda desde 2019, o que me ensinou a partir do problema real do usuário: atendimento presencial e por acesso remoto (TeamViewer), instalação e formatação de Windows e Linux, Microsoft 365, montagem, troca de peças, remoção de vírus e correção de lentidão.
 
 Também trabalho com dados: SQL, Python com pandas, Excel avançado com tabelas dinâmicas e Power Query, e Power BI, aplicados no brasil-econ-dashboard. Certificado pela Cisco em análise de dados e Data Science com Python.
-
-Como voluntário, coordenei por quase dois anos a equipe de moderação de uma comunidade online com cerca de 230 membros ativos por dia; a equipe cresceu de 8 para até 56 pessoas.
 
 Inglês técnico intermediário.
 
@@ -102,12 +102,13 @@ Inglês técnico intermediário.
 
 | Área | Ferramentas |
 |---|---|
-| Back-end | Node.js, Express, NestJS, Fastify, APIs REST, OpenAPI, JWT, Prisma, Zod, Clean Architecture |
+| Análise de sistemas | Levantamento de requisitos, regras de negócio, casos de uso e UML, implantação e sustentação |
+| Back-end | Node.js, Express, NestJS, Python (FastAPI), APIs REST, OpenAPI, JWT, Prisma, Zod, Clean Architecture |
 | Front-end | React, Next.js (App Router), TypeScript, Tailwind CSS |
 | Banco de dados | PostgreSQL, Redis, MySQL, modelagem relacional, migrações |
 | Dados | SQL, Python (pandas), Excel avançado (tabelas dinâmicas, Power Query), Power BI |
 | Infraestrutura | Docker, Docker Compose, Git, GitHub Actions, Vercel, Render, Supabase |
-| Segurança e testes | Refresh token rotativo, perfis de acesso, RLS, HMAC, rate limiting, Vitest, Jest, Supertest, Playwright |
+| Segurança e testes | Refresh token rotativo, perfis de acesso, RLS, HMAC, rate limiting, Vitest, Jest, Supertest, Playwright, pytest |
 
 ## Formação
 
@@ -119,10 +120,6 @@ Inglês técnico intermediário.
 - Data Science Essentials with Python, Cisco Networking Academy (2026)
 - AWS Cloud Practitioner Essentials, Amazon Web Services (2026, curso com certificado de conclusão)
 - Conceitos Básicos de Redes, Cisco Networking Academy (2026)
-- Certificação do Google Analytics, Google (2026)
-- AI Foundations e Applied AI Foundations, OpenAI (2026)
-- AI Fluency: Framework and Foundations, Claude 101 e Introduction to Claude Cowork, Anthropic (2026)
-- Introdução à Plataforma Java, DIO (2026)
 - Fundamentos de Programação com C# e .NET, Udemy (2026)
 
 Códigos e links de verificação na seção [Licenças e certificados do LinkedIn](https://www.linkedin.com/in/matheusansel/details/certifications/).
