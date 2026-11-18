@@ -86,8 +86,6 @@ CI no GitHub Actions (tipos, lint, testes e build) em 4 projetos. ITSM, Syre e b
 
 <sub>As imagens desta página são geradas por <code>scripts/gerar.mjs</code> a partir do <a href="https://matheusansel.pages.dev/me.json">resumo publicado pelo portfólio</a>, da API do brasil-econ-dashboard e da API do GitHub.</sub>
 
-**Também no GitHub:** [Telecall / ConnectCall](https://github.com/MatheusAnsel/ConnectCall), projeto acadêmico em PHP e MySQL revisitado com uma auditoria de segurança: prepared statements, senhas com bcrypt, correção de IDOR e CI que impede a volta dessas falhas.
-
 ## Sobre mim
 
 Desenvolvedor Backend e Full Stack, do banco de dados à interface e ao deploy. Desde 2024 desenvolvo, como autônomo, sistemas para clientes reais e projetos próprios.
