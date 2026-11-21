@@ -30,8 +30,8 @@ text{font-family:JBM,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-s
 <text x="22" y="367" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="8.472s" fill="freeze"/><tspan class="m">Publicado            </tspan><tspan class="">Syre</tspan></text>
 <text x="22" y="388" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="8.522s" fill="freeze"/><tspan class="m">Publicado            </tspan><tspan class="">ITSM</tspan></text>
 <text x="22" y="409" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="8.572s" fill="freeze"/><tspan class="m">Publicado            </tspan><tspan class="">brasil-econ-dashboard</tspan></text>
-<text x="22" y="430" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="8.622s" fill="freeze"/><tspan class="m">Publicado            </tspan><tspan class="">JotaJogaDBD</tspan></text>
-<text x="22" y="451" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="8.672s" fill="freeze"/><tspan class="m">Publicado            </tspan><tspan class="">Silva Pneus</tspan></text>
+<text x="22" y="430" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="8.622s" fill="freeze"/><tspan class="m">Pronto               </tspan><tspan class="">JotaJogaDBD</tspan></text>
+<text x="22" y="451" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="8.672s" fill="freeze"/><tspan class="m">Pronto               </tspan><tspan class="">Silva Pneus</tspan></text>
 <text x="22" y="472" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="8.722s" fill="freeze"/><tspan class="m">Em desenvolvimento   </tspan><tspan class="">EcanBuy</tspan></text>
 <text x="22" y="493" opacity="0" xml:space="preserve"><set attributeName="opacity" to="1" begin="8.772s" fill="freeze"/><tspan class="m">Em desenvolvimento   </tspan><tspan class="">Barbearia do Barbio</tspan></text>
 <text x="22" y="514" class="c" xml:space="preserve"><tspan class="pr" opacity="0"><set attributeName="opacity" to="1" begin="9.072s" fill="freeze"/>matheus@rio:~$ </tspan></text>
