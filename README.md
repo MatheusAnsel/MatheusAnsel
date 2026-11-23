@@ -90,7 +90,7 @@ CI no GitHub Actions (tipos, lint, testes e build) em 4 projetos. ITSM, Syre e b
 
 ## Sobre mim
 
-Analista de Sistemas e Desenvolvedor Full Stack, com especialidade em Back-end. Desde 2024, como autônomo, levanto requisitos com o cliente, desenvolvo, implanto e dou sustentação a sistemas para clientes reais e projetos próprios.
+Analista de Sistemas e Desenvolvedor Full Stack, com especialidade em Back-end. Como autônomo, desde 2026, levanto requisitos com o cliente, desenvolvo, implanto e dou sustentação a sistemas para clientes reais e projetos próprios.
 
 Atuo em suporte técnico de TI sob demanda desde 2019, o que me ensinou a partir do problema real do usuário: atendimento presencial e por acesso remoto (TeamViewer), instalação e formatação de Windows e Linux, Microsoft 365, montagem, troca de peças, remoção de vírus e correção de lentidão.
 
