@@ -40,5 +40,5 @@ text{font-family:JBM,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#
 <text x="52" y="300" text-anchor="start" class="ax">dez/23</text><text x="444" y="300" text-anchor="middle" class="ax">mai/25</text><text x="836" y="300" text-anchor="end" class="ax">out/26</text>
 <path d="M52 316h18" stroke="#ffffff" stroke-width="2.5"/><text x="76" y="320" class="ft">Selic</text>
 <path d="M132 316h18" stroke="#8b8b8b" stroke-width="2"/><text x="156" y="320" class="ft">IPCA 12m</text>
-<text x="836" y="320" text-anchor="end" class="ft">Banco Central, via API do brasil-econ-dashboard · 22/11/2026</text>
+<text x="836" y="320" text-anchor="end" class="ft">Banco Central, via API do brasil-econ-dashboard · 23/11/2026</text>
 </svg>
